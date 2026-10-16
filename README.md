@@ -5,7 +5,7 @@
 I build production web applications in Python, working across REST APIs, databases, real-time
 features and the frontends that use them.
 
-- 💼 **Software Developer at TrustBrick Reality Fintech Pvt. Ltd.** I'm the primary developer on a
+- 💼 **Software Developer at TrustBrick Realty Fintech Pvt. Ltd.** I'm the primary developer on a
   production Django + React platform. My work there covers live chat over WebSockets, WebRTC voice
   calling, two-factor authentication, audit logging and AWS deployment.
 - 🛍️ **Freelance Full Stack Web Developer.** As lead developer, I designed, built and launched
